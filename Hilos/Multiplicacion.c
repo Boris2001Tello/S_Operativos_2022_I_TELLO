@@ -7,7 +7,7 @@ int main(){
     scanf( "%d", &a );
     printf("Digite primer numero:");
     scanf( "%d", &b );
-    mul = a+b;
+    mul = a*b;
     printf( "La multiplicacion es: %d", mul );
 
     return 0;
